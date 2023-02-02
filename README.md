@@ -1,3 +1,2 @@
-# trab-perso2-2022b-joaofrigo
-trab-perso2-2022b-joaofrigo created by GitHub Classroom
-Esse trabalho foi feito pra ser rodado no replit, por usar nix e o .replit que tem a função de modificar o run.
+# Trabalho Multi LInguagem
+Esse trabalho foi feito pra ser rodado no replit, por usar nix e o .replit que tem a função de modificar o run. As instruções de rodar cada Hello World! estão no arquivo RUNS.
